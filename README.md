@@ -1,2 +1,2 @@
-# computational_biology
-course material
+# Computational Biology Class Schedule
+![Class schedule](class_schedule.png)
